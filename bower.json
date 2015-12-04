@@ -1,0 +1,16 @@
+{
+  "name": "QN_Backend",
+  "authors": [
+    "quangnguyen <quang0828@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "AdminLTE": "adminlte#~2.3.2"
+  }
+}
