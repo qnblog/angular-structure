@@ -1,0 +1,1 @@
+var defaultModule = angular.module('default', []);
